@@ -1,0 +1,3 @@
+This sample scripts should be placed under your Apache web folder and
+the database dump file should be imported into a Mysql database.
+Edit dbconnect.php so that the script can connect to the imported database table.
